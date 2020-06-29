@@ -31,6 +31,6 @@ Citing the paper(if referred) is mandatory since the paper has copyrights.
 
 # Enjoy Coding
 
-Kmeans Cluster
+LDA Cluster
 
-![alt text](
+![alt text](https://github.com/Ayantika22/Linear-discriminant-Analysis-LDA-for-Wine-Dataset/blob/master/image.png)
